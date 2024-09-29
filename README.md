@@ -3,7 +3,6 @@
 - 👀 I’m interested in full-stack development with a focus on JavaScript.
 - 🌱 I’m currently learning advanced JavaScript and Data Structures.
 - 💞️ I’m looking to collaborate on open-source web apps and React projects.
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/paramveer-chauhan-7b4481268/)
 - ⚡ Fun fact: I'm a gamer and a hardcore manga reader—both fuel my creativity!
 
 
