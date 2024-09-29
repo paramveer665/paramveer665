@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @paramveer665
-- 👀 I’m interested in full stack development in Javascript
-- 🌱 I’m currently learning Javascript and Data structure
-- 💞️ I’m looking to collaborate on opensource webapps and React apps
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/paramveer-chauhan-7b4481268/)
-- ⚡ Fun fact: Im a gamer and hardcore manga reader which is of no use.
+# 👋 Hi, I’m @paramveer665
+
+- 👀 I’m interested in full-stack development with a focus on JavaScript.
+- 🌱 I’m currently learning advanced JavaScript and Data Structures.
+- 💞️ I’m looking to collaborate on open-source web apps and React projects.
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/paramveer-chauhan-7b4481268/)
+- ⚡ Fun fact: I'm a gamer and a hardcore manga reader—both fuel my creativity!
+
 
 <!---
 paramveer665/paramveer665 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
