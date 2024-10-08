@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paramveer Chauhan</h1>
 <h3 align="center">A passionate open source and full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1018278/screenshots/3870893/media/fc8a9209275dd635701cfe5ce751961d.gif">
+<img align="right" alt="Coding" width="370" src="https://cdn.dribbble.com/users/1018278/screenshots/3870893/media/fc8a9209275dd635701cfe5ce751961d.gif">
 
 
 🔭 I’m currently working on my brainchild Spotbucket<br><br>🌱 I’m currently learning Next.js and Typescript<br><br>👯 I’m looking to collaborate on open source projects<br><br>💬 Ask me about React and React Native<br><br>📫 How to reach me paramveerchauhan665@gmail.com<br><br>⚡ Fun fact I read too much manga/manhwa
