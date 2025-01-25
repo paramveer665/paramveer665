@@ -6,24 +6,6 @@
 🔭 I’m currently working on my brainchild Spotbucket<br><br>🌱 I’m currently learning Next.js and Typescript<br><br>👯 I’m looking to collaborate on open source projects<br><br>💬 Ask me about React and React Native<br><br>📫 How to reach me paramveerchauhan665@gmail.com<br><br>⚡ Fun fact I read too much manga/manhwa
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paramveerchauhan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bh4irav) [![](https://visitcount.itsvg.in/api?id=paramveer665&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://gssoc.girlscript.tech/badges/postman.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/2.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/3.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/4.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/5.png" width="100px" height="100px" />
-
-</div>
-
-## HACKTOBERFEST(24) Badges 🪶
-
-[![An image of @paramveer665's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/paramveer665)](https://holopin.io/@paramveer665)
-
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -68,6 +50,26 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
 </div>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paramveerchauhan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bh4irav) [![](https://visitcount.itsvg.in/api?id=paramveer665&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://gssoc.girlscript.tech/badges/postman.png" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/2.png" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/3.png" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/4.png" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/5.png" width="100px" height="100px" />
+
+</div>
+
+## HACKTOBERFEST(24) Badges 🪶
+
+[![An image of @paramveer665's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/paramveer665)](https://holopin.io/@paramveer665)
 
 ###
 # 📊 GitHub Stats:
