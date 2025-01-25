@@ -53,8 +53,16 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paramveerchauhan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bh4irav) [![](https://visitcount.itsvg.in/api?id=paramveer665&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="left">
+  <a href="https://www.linkeedin.com/in/paramveerchauhan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.twitter.com/paramveer665" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
+###
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
