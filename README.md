@@ -52,7 +52,7 @@
 </div>
 
 
-## 🌐 Socials:
+## 🌐 Profiles:
 <div align="left">
   <a href="https://www.linkedin.com/in/paramveerchauhan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -60,7 +60,14 @@
   <a href="https://www.twitter.com/paramveer665" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
+   <a href="https://www.leetcode.com/u/paramveer665" target="_blank">
+    <img src="https://raw.githubusercontent.com/paramveer665/JsPractice/12f58cf062851111506ecee30939d0acf94baf53/leetcode.svg" width="52" height="40" alt="leetcode logo"  />
+  </a>
+  
+
+
 </div>
+
 
 ###
 
